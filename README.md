@@ -22,3 +22,4 @@ I'm a Computer Science Engineering student with a passion for creativity and tec
 
 
 <img src="https://raw.githubusercontent.com/Trishal45/Trishal45/output/snake.svg" alt="Snake animation" />
+
