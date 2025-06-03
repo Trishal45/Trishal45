@@ -15,11 +15,17 @@ I'm a Computer Science Engineering student with a passion for creativity and tec
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Trishal45&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
 
-<img src="https://raw.githubusercontent.com/Trishal45/Trishal45/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Trishal45/Trishal45/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Trishal45/Trishal45/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Trishal45/Trishal45/output/github-snake.svg" />
+</picture>
 
